@@ -62,7 +62,7 @@ docker run --name openvpn-monitor \
 
 Now OpenVPN Monitor should be accessible via http://127.0.0.1:80.
 
-*Note that for the `logo.jpg` to be readable, you need to bind-mount it or pass an URL instead. Also, the datetime format needs to be escaped as shown above (suing two %).*
+*Note that for the `logo.jpg` to be readable, you need to bind-mount it or pass an URL instead. Also, the datetime format needs to be escaped as shown above (using two %).*
 
 ## Supported Docker versions
 
